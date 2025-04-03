@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDemoWebshop" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-03T10:23:55.338Z" hostname="DESKTOP-MOUANAN" time="0.002">
+  <properties/>
+  <testcase name="openWebshop" classname="TestDemoWebshop" time="0.002"/>
+  <system-out><![CDATA[Step 1
+Step 2
+Step 3
+]]></system-out>
+  <system-err><![CDATA[Apr. 03, 2025 12:23:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNUNG: Unable to find an exact match for CDP version 135, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 135
+]]></system-err>
+</testsuite>
